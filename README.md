@@ -6,7 +6,7 @@ thinkpaid inspired fastfetch, with ANSI logo and boxed interface to display deta
 
 ### ASCII art credits to https://github.com/roadkell/ascii-logos
 
-## 🛠 Installation
+## Installation
 Please have curl and fastfetch pre-installed, not tested for windows
 
 Run these commands in your terminal to set up the config and logo automatically:
