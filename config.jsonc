@@ -53,8 +53,7 @@
         // --- TIME & UPTIME ---
         {
             "type": "datetime",
-            "key": "{$5}  \u001b[31m time   ", 
-            "format": "{1}:{14}:{16} {20}"
+            "key": "{$5}  \u001b[31m time   "
         },
         {
             "type": "uptime",
